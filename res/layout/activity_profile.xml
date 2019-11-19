@@ -9,13 +9,13 @@
        android:id="@+id/tv1"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:text="Nama : Erwin Situmorang" />
+       android:text="Nama : Wahyudi Valentino Simamora" />
     
     <TextView
         android:id="@+id/tv2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nim : 163303030237" 
+        android:text="Nim : 163303030203" 
         android:layout_below="@+id/tv1"/>
     
 </RelativeLayout>
